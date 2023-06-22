@@ -24,10 +24,4 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
-      - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
 ---
