@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Dr. Grieco
+name_pronunciation: Kay Gee
 
 # Is this the primary user of the site?
 superuser: true
