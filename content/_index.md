@@ -1,6 +1,11 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Kevin Grieco
+
+# Full name (for SEO)
+first_name: Kevin
+last_name: Grieco
+
 date: 2022-10-24
 type: landing
 sections:
