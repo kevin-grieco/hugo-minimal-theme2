@@ -28,7 +28,7 @@ bio: 'The man'
 social:
   - icon: envelope
     icon_pack: fas
-    link: '#contact'
+    link: 'contact'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5547-3196
