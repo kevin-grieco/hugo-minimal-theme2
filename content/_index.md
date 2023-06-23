@@ -24,7 +24,7 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
-      - block: markdown
+      - block: about.avatar
     id: section-2
     content:
       title: Section 2
