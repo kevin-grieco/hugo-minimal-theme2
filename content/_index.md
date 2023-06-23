@@ -23,6 +23,18 @@ sections:
           size: cover
           position: center
           parallax: false
-      css_class: d-flex fullscreen align-items-center
-    
+      css_class: d-flex fullscreen align-items-center 
+---
+
+---
+title: My page
+type: landing
+
+sections:
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
 ---
