@@ -6,6 +6,9 @@ title: Kevin Grieco
 first_name: Kevin
 last_name: Grieco
 
+# Role/position/tagline
+role: Professor of Artificial Intelligence
+
 date: 2022-10-24
 type: landing
 sections:
