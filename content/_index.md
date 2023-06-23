@@ -27,8 +27,6 @@ sections:
 ---
 
 ---
-title: My page
-type: landing
 
 sections:
   - block: about.biography
