@@ -9,8 +9,27 @@ last_name: Grieco
 # Role/position/tagline
 role: Professor of Artificial Intelligence
 
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
+
+
 date: 2022-10-24
 type: landing
+
+
+
+
+
 sections:
   - block: about.avatar
     content:
