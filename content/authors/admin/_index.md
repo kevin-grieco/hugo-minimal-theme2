@@ -56,3 +56,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+This is a little bit about me, I study Africa and I like drinking star beer. 
