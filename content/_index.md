@@ -5,17 +5,26 @@ date: 2022-10-24
 type: landing
 
 sections:
-   - block: experience
-      content:
-        title: Experience
-        # Date format for experience
-        #   Refer to https://wowchemy.com/docs/customization/#date-format
-        date_format: Jan 2006
-        # Experiences.
-        #   Add/remove as many `experience` items below as you like.
-        #   Required fields are `title`, `company`, and `date_start`.
-        #   Leave `date_end` empty if it's your current employer.
-        #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  - block: about.avatar
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: |-
+        👋 Hi, there! I'm **Kevin G**, a man on a mission.
+        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+    design:
+      background:
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: apartment 1.jpg
+          filters:
+            brightness: 0.4
+          size: cover
+          position: center
+          parallax: false
+      css_class: d-flex fullscreen align-items-center
 
 ---
 
