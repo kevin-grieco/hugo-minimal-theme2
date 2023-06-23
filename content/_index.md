@@ -4,11 +4,6 @@ title: Kevin Grieco
 date: 2022-10-24
 type: landing
 
-
-
-
-
-
 sections:
   - block: about.avatar
     content:
@@ -17,29 +12,6 @@ sections:
       text: |-
         👋 Hi, there! I'm **Kevin G**, a man on a mission.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-# Full name (for SEO)
-first_name: Kevin
-last_name: Grieco
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-
-
-
     design:
       background:
         color: black
