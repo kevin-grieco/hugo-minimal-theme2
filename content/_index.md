@@ -31,7 +31,26 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
-
+  - block: accomplishments
+    content:
+      title: Accomplishments
+      subtitle: ''
+      text: ''
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `items` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Neural Networks and Deep Learning
+          certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          url: ''
 ---
 
