@@ -31,12 +31,13 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: about.education
-    id: about
+  - block: markdown
+    id: section-2
     content:
-      title: Education
+      title: Section 2
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: some text
 
 
 ---
