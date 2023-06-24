@@ -25,12 +25,6 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
 
 ---
 
