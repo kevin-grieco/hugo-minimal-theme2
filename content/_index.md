@@ -31,7 +31,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-   - block: about.education
+  - block: about.education
     id: about
     content:
       title: Education
